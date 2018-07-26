@@ -37,8 +37,8 @@ EXPERIENCE
 Enaayah software solutions
 Web Developer | Jan 2015 – Dec 2017 | 
 
-•	Work with senior developer to manage large complex design projects for corporate clients.
-•	Develop project concepts and maintain optimal workflow.
+•	Worked with senior developer to manage large complex design projects for corporate clients.
+•	Develope project concepts and maintain optimal workflow.
 •	Complete detailed programming and development tasks for front end and challenging backend server code.
 •	Collaborate with designers to create clean interfaces and simple, intuitive interactions and experiences.
 •	Experience consuming Restful API
