@@ -1,6 +1,7 @@
-FATIMA DURRAJ	519-562-9130
-Toronto, ON
-fatimadurraj@gmail.com
+                                                                                                              FATIMA DURRAJ	
+                                                                                                              519-562-9130
+                                                                                                              Toronto, ON
+                                                                                                              fatimadurraj@gmail.com
 
 SUMMARY
 •	Experienced with all stages of the development cycle for dynamic web Projects.
@@ -11,11 +12,21 @@ SUMMARY
 •	Excellent written and oral communication skills, able to convey ideas/thoughts related to the project team in a clear and logical manner
 
 SKILLS:
-•	HTML5  	•	Node.js	•	JAVA 
-•	CSS3	•	JSON	•	XAMPP
-•	JavaScript	•	WordPress	•	AJAX
-•	Bootstrap	•	PHP	•	Angular JS
-•	JQuery	•	SQL	•	GitHub
+•	HTML5  
+•	Node.js
+•	JAVA 
+•	CSS3
+•	JSON	
+•	XAMPP
+•	JavaScript	
+•	WordPress	
+•	AJAX
+•	Bootstrap
+•	PHP
+•	Angular JS
+•	JQuery	
+•	SQL
+•	GitHub
 •	React.js
 
 HIGHLIGHTS
@@ -43,6 +54,7 @@ Web Developer | Jan 2015 – Dec 2017 |
 
 
 GitHub account: https://github.com/fatimaWD/
+
 EDUCATION
 Bachelors in Engineering and Technology
 Jawaharlal Nehru Technological University, Hyderabad, India
