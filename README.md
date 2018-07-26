@@ -1,7 +1,4 @@
-                                                                                                              FATIMA DURRAJ	
-                                                                                                              519-562-9130
-                                                                                                              Toronto, ON
-                                                                                                              fatimadurraj@gmail.com
+FATIMA DURRAJ 519-562-9130  Toronto, ON  fatimadurraj@gmail.com
 
 SUMMARY
 •	Experienced with all stages of the development cycle for dynamic web Projects.
